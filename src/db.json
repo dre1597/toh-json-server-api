@@ -1,0 +1,44 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Windstorm"
+    },
+    {
+      "id": 2,
+      "name": "Bombasto"
+    },
+    {
+      "id": 3,
+      "name": "Magneto"
+    },
+    {
+      "id": 4,
+      "name": "Tornado"
+    },
+    {
+      "id": 5,
+      "name": "Ironman"
+    },
+    {
+      "id": 6,
+      "name": "Hulk"
+    },
+    {
+      "id": 7,
+      "name": "Antman"
+    },
+    {
+      "id": 8,
+      "name": "Hawkeye"
+    },
+    {
+      "id": 9,
+      "name": "Captain America"
+    },
+    {
+      "id": 10,
+      "name": "Black Widow"
+    }
+  ]
+}
